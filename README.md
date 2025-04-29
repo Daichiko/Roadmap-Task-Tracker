@@ -2,6 +2,8 @@
 
 Esta es una sencilla aplicación de línea de comandos (CLI) escrita en TypeScript y Node.js que te permite gestionar tus tareas directamente desde la terminal. Puedes agregar, actualizar, eliminar, marcar el estado y listar tus tareas.
 
+**Inspiración:** La idea para este proyecto de práctica fue obtenida de [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker).
+
 ## Prerrequisitos
 
 Antes de poder ejecutar la aplicación, asegúrate de tener instalado lo siguiente en tu sistema:
